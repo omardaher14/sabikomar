@@ -2159,9 +2159,9 @@ body.mobile-nav-active #mobile-nav-toggle {
     @media (max-width: 576px) {
       .banner-content .designation {
         font-size: 25px; } }
-    .banner-content .designation .designer {
+    .banner-content .designation .gestiondeprojet {
       color: #e45447; }
-    .banner-content .designation .developer {
+    .banner-content .designation .gestiondeprojet {
       color: #90acd1; }
 
 .banner-img {
